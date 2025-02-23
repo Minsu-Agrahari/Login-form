@@ -42,7 +42,9 @@ File Structure
 
 📂 Rick-Themed-Login-Form
 ├── 📄 index.html    # Main HTML file
+
 ├── 📄 style.css     # CSS file for styling
+
 ├── 📂 img          # Folder for images
 
 Customization

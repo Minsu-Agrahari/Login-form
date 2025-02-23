@@ -41,6 +41,7 @@ Open index.html in a browser to view the login form.
 File Structure
 
 📂 Rick-Themed-Login-Form
+
 ├── 📄 index.html    # Main HTML file
 
 ├── 📄 style.css     # CSS file for styling
